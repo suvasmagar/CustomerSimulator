@@ -1,0 +1,159 @@
+Statitics
+=========
+
+Number of groups served: 16
+Number of groups lost: 3
+
+the following groups are in the shop :
+======================================
+
+Group 0 (1 people) arrived at t= 0
+Group 1 (5 people) arrived at t= 2
+Group 2 (5 people) arrived at t= 4
+Group 3 (1 people) arrived at t= 6
+Group 5 (2 people) arrived at t= 10
+Group 6 (5 people) arrived at t= 12
+Group 7 (3 people) arrived at t= 14
+Group 9 (2 people) arrived at t= 18
+Group 10 (3 people) arrived at t= 20
+
+the following groups are in the log:
+======================================
+
+Group 0 (1 people) arrived at t= 0
+Group 1 (5 people) arrived at t= 2
+Group 2 (5 people) arrived at t= 4
+Group 3 (1 people) arrived at t= 6
+Group 4 (2 people) arrived at t= 8
+Group 5 (2 people) arrived at t= 10
+Group 6 (5 people) arrived at t= 12
+Group 7 (3 people) arrived at t= 14
+Group 8 (1 people) arrived at t= 16
+Group 9 (2 people) arrived at t= 18
+Group 10 (3 people) arrived at t= 20
+Statitics
+=========
+
+Number of groups served: 10
+Number of groups lost: 26
+
+the following groups are in the shop :
+======================================
+
+
+the following groups are in the log:
+======================================
+
+Group 0 (2 people) arrived at t= 0
+Group 1 (2 people) arrived at t= 2
+Group 2 (2 people) arrived at t= 4
+Group 3 (2 people) arrived at t= 6
+Group 4 (2 people) arrived at t= 8
+Group 5 (2 people) arrived at t= 10
+Group 6 (2 people) arrived at t= 12
+Group 7 (2 people) arrived at t= 14
+Group 8 (2 people) arrived at t= 16
+Group 9 (2 people) arrived at t= 18
+Group 10 (2 people) arrived at t= 20
+
+Statitics
+=========
+
+Number of groups served: 14
+Number of groups lost: 5
+
+the following groups are in the shop :
+======================================
+
+Group 0 (3 people) arrived at t= 0
+Group 1 (5 people) arrived at t= 2
+Group 2 (3 people) arrived at t= 4
+Group 3 (4 people) arrived at t= 6
+Group 5 (3 people) arrived at t= 10
+Group 6 (5 people) arrived at t= 12
+Group 7 (1 people) arrived at t= 14
+Group 9 (5 people) arrived at t= 18
+Group 10 (1 people) arrived at t= 20
+
+the following groups are in the log:
+======================================
+
+Group 0 (3 people) arrived at t= 0
+Group 1 (5 people) arrived at t= 2
+Group 2 (3 people) arrived at t= 4
+Group 3 (4 people) arrived at t= 6
+Group 4 (3 people) arrived at t= 8
+Group 5 (3 people) arrived at t= 10
+Group 6 (5 people) arrived at t= 12
+Group 7 (1 people) arrived at t= 14
+Group 8 (2 people) arrived at t= 16
+Group 9 (5 people) arrived at t= 18
+Group 10 (1 people) arrived at t= 20
+
+Statitics
+=========
+
+Number of groups served: 15
+Number of groups lost: 6
+
+the following groups are in the shop :
+======================================
+
+Group 0 (4 people) arrived at t= 0
+Group 1 (2 people) arrived at t= 2
+Group 2 (3 people) arrived at t= 4
+Group 3 (1 people) arrived at t= 6
+Group 5 (3 people) arrived at t= 10
+Group 6 (5 people) arrived at t= 12
+Group 7 (2 people) arrived at t= 14
+Group 9 (2 people) arrived at t= 18
+Group 10 (1 people) arrived at t= 20
+
+the following groups are in the log:
+======================================
+
+Group 0 (4 people) arrived at t= 0
+Group 1 (2 people) arrived at t= 2
+Group 2 (3 people) arrived at t= 4
+Group 3 (1 people) arrived at t= 6
+Group 4 (5 people) arrived at t= 8
+Group 5 (3 people) arrived at t= 10
+Group 6 (5 people) arrived at t= 12
+Group 7 (2 people) arrived at t= 14
+Group 8 (1 people) arrived at t= 16
+Group 9 (2 people) arrived at t= 18
+Group 10 (1 people) arrived at t= 20
+
+Statitics
+=========
+
+Number of groups served: 11
+Number of groups lost: 3
+
+the following groups are in the shop :
+======================================
+
+Group 0 (2 people) arrived at t= 0
+Group 1 (1 people) arrived at t= 2
+Group 2 (3 people) arrived at t= 4
+Group 3 (5 people) arrived at t= 6
+Group 5 (3 people) arrived at t= 10
+Group 6 (4 people) arrived at t= 12
+Group 7 (3 people) arrived at t= 14
+Group 9 (4 people) arrived at t= 18
+Group 10 (1 people) arrived at t= 20
+
+the following groups are in the log:
+======================================
+
+Group 0 (2 people) arrived at t= 0
+Group 1 (1 people) arrived at t= 2
+Group 2 (3 people) arrived at t= 4
+Group 3 (5 people) arrived at t= 6
+Group 4 (2 people) arrived at t= 8
+Group 5 (3 people) arrived at t= 10
+Group 6 (4 people) arrived at t= 12
+Group 7 (3 people) arrived at t= 14
+Group 8 (1 people) arrived at t= 16
+Group 9 (4 people) arrived at t= 18
+Group 10 (1 people) arrived at t= 20
